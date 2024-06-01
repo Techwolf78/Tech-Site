@@ -3,7 +3,7 @@
 
 This is a demo website for a tech company designed using React.js
 
-CheckOut website - [https://react-techwebsite-rl6mwpn8p-abhishekbhosale46.vercel.app/](https://tech-site-p-r.vercel.app/)
+CheckOut website - https://tech-site-p-r.vercel.app/
 
 # Getting Started with Create React App
 
