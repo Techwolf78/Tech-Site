@@ -1,7 +1,7 @@
 
 # Description
 
-This is a demo website for a tech company designed using bootstrap5 and reactjs
+This is a demo website for a tech company designed using React.js
 
 CheckOut website - https://react-techwebsite-rl6mwpn8p-abhishekbhosale46.vercel.app/
 
@@ -74,8 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Tech-Site
-My company's website made using React.js
->>>>>>> origin/main
+
