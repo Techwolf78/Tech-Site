@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Description
 
 This is a demo website for a tech company designed using bootstrap5 and reactjs
