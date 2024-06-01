@@ -12,18 +12,13 @@ const About = () => {
                   About Us
                 </h2>
                 <h5 className="fw-lighter my-4 text-secondary">
-                  AlphaTech is a leading technology company that has been at the
-                  forefront of innovation for over a decade. We specialize in
-                  developing cutting-edge solutions for a wide range of
-                  industries, including healthcare, finance, and education.
+                TechLumina is a premier tech company specializing in cutting-edge web development and app development services. Our team of skilled developers is committed to delivering scalable and robust solutions tailored to meet the unique needs of our clients.
                   <br />
                   <br />
-                  Our team is made up of some of the brightest minds in the
-                  industry, all with a passion for using technology to make a
-                  positive impact on the world. From our software engineers and
-                  data scientists to our designers and product managers, we are
-                  all dedicated to creating products that are intuitive,
-                  reliable, and effective.
+                  In addition to web and app development, we also provide exceptional UI/UX design services to ensure that our clients' products feature visually appealing and intuitive interfaces. Our designers collaborate closely with our development team to create seamless and user-friendly experiences.
+                  <br />
+                  <br />
+                  Our web development services encompass a wide array of technologies, including HTML, CSS, JavaScript, and various frameworks such as Angular, React, and Vue.js. We have a proven track record of delivering successful web projects for small businesses, enterprises, and startups.
                 </h5>
               </div>
 
@@ -38,8 +33,8 @@ const About = () => {
 
             <div className="text-center my-3">
               <p style={{ color: "#5465ff" }}>
-                It is only when they go wrong that machines remind you how
-                powerful they are <br /> - Clive James
+                "The best way to predict the future is to invent it." <br /> - Alan Kay
+  
               </p>
             </div>
           </div>

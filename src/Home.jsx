@@ -1,5 +1,4 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 
 const Home = () => {
@@ -19,7 +18,7 @@ const Home = () => {
                 Empowering innovation with cutting-edge technology solutions.
                 Transforming the way you do business with
                 <br />
-                <strong style={{ color: "#5465ff" }}>AlphaTech</strong>
+                <strong style={{ color: "#5465ff" }}>TechLumina</strong>
               </h2>
               <h4 className="fw-lighter my-5 text-secondary">
                 We are the team of talented devs !

@@ -9,7 +9,7 @@ const NavBar = () => {
           <NavLink to="/" className="navbar-brand">
             <span className="fw-bold" style={{ color: "#5465ff" }}>
               {" "}
-              AlphaTech{" "}
+              TechLumina{" "}
             </span>
           </NavLink>
 
