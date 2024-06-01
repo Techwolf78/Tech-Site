@@ -44,7 +44,7 @@ const Contact = () => {
 
           <div className="text-center my-5">
             <p className="text-secondary">
-              Reach out to us at <strong>help@alphatech.in</strong>
+              Reach out to us at <strong>help@TechLumina.in</strong>
             </p>
           </div>
         </div>
